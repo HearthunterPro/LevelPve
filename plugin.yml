@@ -1,0 +1,6 @@
+name: LevelPve
+main: mc.LevelPve.Main
+version: 1.0
+commands:
+  lp:
+    description: All Command
